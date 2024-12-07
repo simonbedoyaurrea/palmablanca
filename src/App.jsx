@@ -4,8 +4,8 @@ import './styles/app.css'
 import Hero from './components/Header'
 import Beneficios from './components/Beneficios'
 import CarruselRecetas from './components/CarruselRecetas'
-import Footer from './components/footer'
-import IconoWp from './components/iconoWp'
+import Footer from './components/Footer2'
+import IconoWp from './components/IconoWhatsapp'
 
 function App() {
   
