@@ -1,8 +1,10 @@
 .icono-wp{
     position: fixed;
-    bottom: 170px;
-    right: 440px;
+    bottom:70px;
+    left: 90%;
     font-size: 30px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     color: white;
     background-color: greenyellow;
@@ -10,4 +12,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 1000;
 }
+
+
+@media (max-width: 508px) {
+    .icono-wp {
+        bottom: 200px;
+        left: 70%;
+    }
+  }
