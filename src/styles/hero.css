@@ -1,0 +1,25 @@
+
+
+.contenedor-hero{
+    background-size: cover;
+    width: 100vw;
+    /* margin-top: 120px; */
+        background-position: center;
+        height: 100vh;
+        color: white;
+        align-Items: center;
+        background-Attachment:fixed;
+        margin-Bottom:0px;
+        display:flex;
+        justify-Content:flex-end;
+}
+.texto-hero{
+    text-align: center;
+    font-size: 1.1em;
+    margin-right: 20px;
+
+    strong{
+        font-size: 2em;
+        color: rgba(54, 154, 124, 1);
+    }
+}

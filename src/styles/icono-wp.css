@@ -1,0 +1,13 @@
+.icono-wp{
+    position: fixed;
+    bottom: 170px;
+    right: 440px;
+    font-size: 30px;
+    border-radius: 50%;
+    color: white;
+    background-color: greenyellow;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

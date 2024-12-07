@@ -1,0 +1,25 @@
+.imagen-receta{
+    width:100%;
+    height: 80%;
+    object-fit: cover;
+}
+
+.contenedor-receta{
+    border-radius: 10px;
+    background:#134d42;
+    width: 200px;
+    overflow: hidden;
+    height: 385px;
+    font-size: 0.8em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.info-receta{
+    padding: 10px;
+    height: 100px;
+}

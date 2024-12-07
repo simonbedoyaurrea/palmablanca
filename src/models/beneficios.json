@@ -1,0 +1,38 @@
+[
+    {
+      "beneficio": "Libre de gluten",
+      "icono": "gluten",
+      "descripcion": "naturalmente libre de gluten"
+    },
+    {
+      "beneficio": "Alto en fibra",
+      "icono": "fibra",
+      "descripcion": "harina rica en fibra, lo que favorece la digestión"
+    },
+    {
+      "beneficio": "Rica en nutrientes",
+      "icono": "nutrientes",
+      "descripcion": "Contiene importantes nutrientes como hierro, magnesio y proteínas vegetales."
+    },
+    {
+      "beneficio": "Fuente de grasas saludables",
+      "icono": "grasas",
+      "descripcion": "Contiene grasas saludables esenciales para una buena salud cardiovascular"
+    },
+    {
+      "beneficio": "Antioxidante natural",
+      "icono": "antioxidante",
+      "descripcion": "Su contenido de antioxidantes protege el cuerpo contra el daño celular y envejecimiento prematuro."
+    },
+    {
+      "beneficio": "Sostenible y ecológica",
+      "icono": "ecologico",
+      "descripcion": "su producción tiene un menor impacto ambiental en comparación con otros cultivos."
+    },
+    {
+      "beneficio": "Libre de azúcar añadida",
+      "icono": "azucar",
+      "descripcion": "excelente opción para quienes buscan reducir el consumo de azúcares en su dieta."
+    }
+  ]
+  
