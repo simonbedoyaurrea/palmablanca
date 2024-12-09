@@ -4,6 +4,6 @@ import '../styles/icono-wp.css'
 
 export default function IconoWp() {
   return (
-    <div className='icono-wp'><BsWhatsapp/></div>
+    <a href="https://wa.me/573053351409" target="_blank"><div className='icono-wp'><BsWhatsapp/></div></a>
   )
 }
