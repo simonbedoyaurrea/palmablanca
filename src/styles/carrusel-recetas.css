@@ -11,7 +11,7 @@ justify-content: center;
 }
 .titulo-recetas{
     color: rgb(34, 113, 94);
-    font-size: 4em;
+    font-size: 3rem;
     margin-bottom: 12px;
     font-family: "Playwrite HR Lijeva", cursive;
     font-weight: 300;
@@ -27,6 +27,6 @@ justify-content: center;
 
 .receta-icono{
     color:rgb(29, 118, 93);
-    font-size:4em;
+    font-size:3rem;
     transform: rotate(10deg);
 }

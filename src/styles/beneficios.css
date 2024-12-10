@@ -18,6 +18,10 @@
     }
 }
 
+.titulo-beneficios{
+
+}
+
 .carrusel-beneficios{
     display: flex;
     /* background-color: rgb(15, 58, 95); */
@@ -42,4 +46,13 @@ width: 30%;
 .palmera-derecha{
     right: 0;
     top: 0;
+}
+
+@media (max-width: 770px) {
+    .palmera-derecha{
+       display: none;
+    }
+    .palmera-izquierda{
+        top: 100px;
+    }
 }

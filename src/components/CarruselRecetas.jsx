@@ -4,10 +4,11 @@ import Receta from './Receta'
 import '../styles/carrusel-recetas.css'
 import { GiCampCookingPot } from 'react-icons/gi'
 
+
 export default function CarruselRecetas() {
   return (
     <div className='contenedor-recetas'>
-      <div style={{display:'flex',justifyContent:'center',alignItems:'center'}}>
+      <div style={{display:'flex',justifyContent:'center',alignItems:'center',width:'100vw',boxSizing:'border-box'}}>
         <h2 className='titulo-recetas'>Recetas</h2>
         <GiCampCookingPot className='receta-icono' />
       </div>

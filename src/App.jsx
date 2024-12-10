@@ -6,6 +6,7 @@ import Beneficios from './components/Beneficios'
 import CarruselRecetas from './components/CarruselRecetas'
 import Footer from './components/Footer2'
 import IconoWp from './components/IconoWhatsapp'
+import Presentaciones from './components/Presentaciones'
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
       <Hero />
       <Beneficios />
       <CarruselRecetas/>
+      <Presentaciones />
       <Footer />
       <IconoWp />
     </>
