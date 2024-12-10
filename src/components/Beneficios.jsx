@@ -19,11 +19,11 @@ export default function Beneficios() {
             viewport={{ once: true, amount: 0.2 }} // Opciones de visibilidad
         >
         <h2 className="titulo-beneficios">¿Por qué cambiarse a <br/>harina de coco PALMABLANCA?</h2>
-        <img className="palmera-izquierda" src={palmera1} alt="" />
+        <img className="palmera-izquierda" src={palmera1} alt="imagen de palmera" />
         <div className='carrusel-beneficios'>
           {beneficios.map(beneficio=><ContenedorBeneficio beneficio={beneficio} /> )}
         </div>
-        <img className="palmera-derecha" src={palmera2} alt="" />
+        <img className="palmera-derecha" src={palmera2} alt="imagen de palmera" />
     </motion.div>
     
   )

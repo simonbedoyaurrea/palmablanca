@@ -5,7 +5,7 @@
     flex-wrap: wrap;
     width: 100wv;
     overflow-x: hidden;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 
 .contenedor-info-presentaciones{
@@ -50,6 +50,13 @@
     height: 250px;
 }
 
+.titulo-precios{
+    color: rgb(34, 113, 94);
+    font-size: 3rem;
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-weight: 300;
+}
+
 .imagen-presentacion{
     width: 500px;
     height: 500px;
@@ -58,6 +65,11 @@
 .palmerita{
     color: white;
     padding: 7px;
+}
+.dinero-icono{
+    color:rgb(29, 118, 93);
+    font-size:3rem;
+    transform: rotate(10deg);
 }
 
 @media (max-width: 920px) {

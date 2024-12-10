@@ -31,7 +31,7 @@ export default function ContenedorBeneficio({beneficio}) {
   return (
     <div className='contenedor-beneficio'>
         <h3>{beneficio.beneficio}</h3>
-        <img className='icono-beneficio' src={iconMap[beneficio.icono]} alt="" />
+        <img className='icono-beneficio' src={iconMap[beneficio.icono]} alt={beneficio.beneficio} />
     </div>
   )
 }
