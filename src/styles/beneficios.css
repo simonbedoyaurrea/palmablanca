@@ -10,17 +10,33 @@
     position: relative;
     box-sizing: border-box;
 
-    h2{ 
-        font-size: 2em;
-        font-weight: 300;
-        margin-bottom: 10px;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
 }
 
 .titulo-beneficios{
+ color:rgb(25, 100, 82);
+ /* background-color: rgb(250, 168, 114); */
+ width: 70%;
+ margin-top: 20px;
+ font-size: 3.4vw;
+        font-weight: 300;
+        margin-bottom: 10px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
+
+ strong {
+    /* color:rgb(52, 197, 88); */
+    font-weight: 500;
+    font-size: 2em;
+    background: linear-gradient(to right, #e35b39, #f9c59c); /* Fondo degradado */
+  -webkit-background-clip: text; /* Para asegurar que el fondo se recorte solo al texto */
+  color: transparent; /* Hacer el texto transparente para que solo se vea el fondo */
+    
 }
+
+ 
+}
+
+
 
 .carrusel-beneficios{
     display: flex;
@@ -40,7 +56,7 @@ width: 30%;
 
 .palmera-izquierda{
     left: 0;
-    top: 0;
+    top: 170px;
 }
 
 .palmera-derecha{
@@ -53,6 +69,14 @@ width: 30%;
        display: none;
     }
     .palmera-izquierda{
-        top: 100px;
+        top: 120px;
     }
+
+    .titulo-beneficios{
+        font-size: 5.5vw;
+        position: relative;
+        left: 24%;
+    }
+
+    
 }

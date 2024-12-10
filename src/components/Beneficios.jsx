@@ -18,7 +18,7 @@ export default function Beneficios() {
             transition={{ duration: 0.8, ease: "easeOut" }} // Transición suave
             viewport={{ once: true, amount: 0.2 }} // Opciones de visibilidad
         >
-        <h2 className="titulo-beneficios">¿Por qué cambiarse a <br/>harina de coco PALMABLANCA?</h2>
+        <h2 className="titulo-beneficios">¿Por qué cambiarse a <br/>harina de coco <strong>PALMABLANCA</strong>?</h2>
         <img className="palmera-izquierda" src={palmera1} alt="imagen de palmera" />
         <div className='carrusel-beneficios'>
           {beneficios.map(beneficio=><ContenedorBeneficio beneficio={beneficio} /> )}
