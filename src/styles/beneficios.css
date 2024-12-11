@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Revolution&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playwrite+HR+Lijeva:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Revolution&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 .contenedor-beneficios{
     width:100vw;
@@ -17,17 +18,18 @@
  /* background-color: rgb(250, 168, 114); */
  width: 70%;
  margin-top: 20px;
- font-size: 3.4vw;
-        font-weight: 300;
-        margin-bottom: 10px;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
+ font-size: 5vw;
+ font-weight: 300;
+ margin-bottom: 10px;
+ font-family: anton;
+ line-height: 1;    
+ 
 
  strong {
     /* color:rgb(52, 197, 88); */
     font-weight: 500;
     font-size: 2em;
-    background: linear-gradient(to right, #e35b39, #f9c59c); /* Fondo degradado */
+    background: linear-gradient(to right, #fc6f4c, #f8bd90); /* Fondo degradado */
   -webkit-background-clip: text; /* Para asegurar que el fondo se recorte solo al texto */
   color: transparent; /* Hacer el texto transparente para que solo se vea el fondo */
     
@@ -56,7 +58,7 @@ width: 30%;
 
 .palmera-izquierda{
     left: 0;
-    top: 170px;
+    top: 250px;
 }
 
 .palmera-derecha{
@@ -73,9 +75,13 @@ width: 30%;
     }
 
     .titulo-beneficios{
-        font-size: 5.5vw;
+        font-size: 7.5vw;
         position: relative;
         left: 24%;
+
+        strong{
+            font-size: 9vw;
+        }
     }
 
     
