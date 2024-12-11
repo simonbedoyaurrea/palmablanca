@@ -54,6 +54,7 @@
 .palmera-izquierda, .palmera-derecha{
 position: absolute;
 width: 30%;
+filter: invert(37%) sepia(80%) saturate(0%) brightness(150%);
 }
 
 .palmera-izquierda{
@@ -72,6 +73,7 @@ width: 30%;
     }
     .palmera-izquierda{
         top: 120px;
+        height: 500px;
     }
 
     .titulo-beneficios{
