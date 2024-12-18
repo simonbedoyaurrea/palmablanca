@@ -20,8 +20,8 @@ export default function Presentaciones() {
             <img src={logo} alt="logo" className='logo-presentaciones' />
             <ul>
                 <li>220g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$4,900</li>
-                <li><p>450g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style={{opacity:'.6',textDecoration:'line-through'}}>$9,200</span>&nbsp;&nbsp;&nbsp; precio de lanzamiento: $8,000 </p></li>
-                <li><p>1kg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style={{opacity:'.6',textDecoration:'line-through'}}>$19,500</span>&nbsp;&nbsp;&nbsp; precio de lanzamiento: $18,000</p> </li>
+                <li><p>450g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style={{opacity:'.6',textDecoration:'line-through'}}>$9,200</span><br/> precio de lanzamiento: $8,000 </p></li>
+                <li><p>1kg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style={{opacity:'.6',textDecoration:'line-through'}}>$19,500</span><br/>precio de lanzamiento: $18,000</p> </li>
             </ul>
             <GiPalmTree  className='palmerita'/>
         </div>
