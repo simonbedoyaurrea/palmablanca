@@ -1,0 +1,24 @@
+.icono-ig{
+    position: fixed;
+    bottom:5px;
+    left: 90%;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: white;
+    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+
+@media (max-width: 508px) {
+    .icono-ig {        
+        bottom: 30px;
+        left: 70%;
+    }
+  }

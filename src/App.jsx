@@ -7,6 +7,7 @@ import CarruselRecetas from './components/CarruselRecetas'
 import Footer from './components/Footer2'
 import IconoWp from './components/IconoWhatsapp'
 import Presentaciones from './components/Presentaciones'
+import IconoIG from './components/IconoIG'
 
 function App() {
   
@@ -20,6 +21,7 @@ function App() {
       <Presentaciones />
       <Footer />
       <IconoWp />
+      <IconoIG />
     </>
   )
 }
