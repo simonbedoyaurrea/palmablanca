@@ -3,42 +3,65 @@
         "nombre":"Pancakes de harina de coco",
         "link":"https://glutendence.com/minipancakes-sin-gluten-con-harina-de-coco/",
         "imagen":"https://i.ytimg.com/vi/jsHIpBa6Njo/maxresdefault.jpg",
-        "tiempo":"25 min"
+        "tiempo":"25 min",
+        "plataforma":"texto"
+    },
+    {
+        "nombre":"Arepas keto con harina de coco",
+        "link":"https://www.youtube.com/watch?v=BxjOgw9a5NM",
+        "imagen":"https://urbanfarmie.com/wp-content/uploads/Arepas-Con-Queso-5-500x500.jpg",
+        "tiempo":"20 min",
+        "plataforma":"youtube"
     },
     {
         "nombre":"Mega galleta de banano y cacao con harina de coco ",
         "link":"https://cookpad.com/ar/recetas/17018575-mega-galleta-de-banana-y-cacao-con-harina-de-coco-sin-azucares-agregados-ni-edulcorantes-ni-miel?ref=search&search_term=harina+de+coco",
         "imagen":"https://img-global.cpcdn.com/recipes/8daac38f3aad5135/680x964cq70/mega-galleta-de-banana-y-cacao-con-harina-de-coco-sin-azucares-agregados-ni-edulcorantes-ni-miel-foto-principal.webp",
-        "tiempo":"15 min"
+        "tiempo":"15 min",
+        "plataforma":"texto"
     },
     {
         "nombre":"Pancito keto con harina de coco",
         "link":"https://cookpad.com/ar/recetas/24052734-pancito-keto-con-harina-de-coco-sin-balanza-sin-levadura-sin-amasado-cetogenico?ref=search&search_term=harina+de+coco",
         "imagen":"https://img-global.cpcdn.com/recipes/af63a8dea30bd5f8/1360x1928cq70/pancito-keto-con-harina-de-coco-sin-balanza-sin-levadura-sin-amasado-cetogenico-foto-principal.webp",
-        "tiempo":"30 min"
+        "tiempo":"30 min",
+        "plataforma":"texto"
     },
     {
         "nombre":"Galletas de harina de coco y avena",
         "link":"https://cookpad.com/ar/recetas/17128542-galletas-de-avena-y-harina-de-coco?ref=search&search_term=harina+de+coco",
         "imagen":"https://cdn0.recetasgratis.net/es/posts/3/0/3/galletas_de_avena_faciles_y_rapidas_67303_600_square.jpg",
-        "tiempo":"30 min"
+        "tiempo":"30 min",
+        "plataforma":"texto"
     },
     {
         "nombre":"Mega galleta de harina de coco ",
         "link":"https://cookpad.com/ar/recetas/17023513-mega-galleta-de-harina-de-coco-low-carb-sin-edulcorantes-sin-gluten?ref=search&search_term=harina+de+coco",
         "imagen":"https://img-global.cpcdn.com/recipes/09969ef5a5b78c08/1360x1928cq70/mega-galleta-de-harina-de-coco-low-carb-sin-edulcorantes-sin-gluten-foto-principal.webp",
-        "tiempo":"20 min"
+        "tiempo":"20 min",
+        "plataforma":"texto"
     },
     {
         "nombre":"Tortilla de harina de coco ",
         "link":"https://cookpad.com/ar/recetas/24248879-masa-de-tarta-sin-gluten-y-keto-masa-de-tarta-con-harina-de-coco-apta-dietas-cetogenica?ref=search&search_term=harina+de+coco",
         "imagen":"https://img-global.cpcdn.com/recipes/f7b865e8fb2cbee2/1360x1928cq70/masa-de-tarta-sin-gluten-y-keto-masa-de-tarta-con-harina-de-coco-apta-dietas-cetogenica-foto-principal.webp",
-        "tiempo":"40 min"
+        "tiempo":"40 min",
+        "plataforma":"texto"
+    },
+    {
+        "nombre":"Pastel con harina de coco",
+        "link":"https://www.youtube.com/watch?v=E5KcmJ6Yeo8",
+        "imagen":"https://i.pinimg.com/236x/6f/86/e5/6f86e522384c0fe17970039e48a0047e.jpg",
+        "tiempo":"50 min",
+        "plataforma":"youtube"
     },
     {
         "nombre":"Muffins harina de coco",
         "link":"https://cookpad.com/ar/recetas/15461223-muffins-harina-de-coco?ref=search&search_term=harina+de+coco",
         "imagen":"https://www.recetasnestle.com.pe/sites/default/files/srh_recipes/160222b0abb61a7e9128bf11be691cc2.jpg",
-        "tiempo":"20 min"
+        "tiempo":"20 min",
+        "plataforma":"texto"
     }
+   
 ]
+

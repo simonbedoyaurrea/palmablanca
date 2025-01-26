@@ -22,4 +22,12 @@ a{
 .info-receta{
     padding: 10px;
     height: 100px;
+    
+}
+
+.info-receta-tiempo-fuente{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
 }
